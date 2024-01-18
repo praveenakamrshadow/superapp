@@ -1,1 +1,1 @@
-# Getting Started with SuperApp
+# SuperApp
